@@ -70,7 +70,7 @@ button img {
 }
 
 .dark-mode {
-  background-color: #1d2a35!important;
+  background-color: black;
   color: white;
 }
 
@@ -94,7 +94,7 @@ button.swal-button-container{
 }
 
 h3.title{
- color: var(--title-color);
+ color: #fffff);
 }
 .button {
   background-color: var(--base-color);
